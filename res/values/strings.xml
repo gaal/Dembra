@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_scan_mode">Start Scanning</string>
+    <string name="app_name">Dembra</string>
+	<string name="clear_memory">Clear scan history</string>
+	<string name="confirmTitle">Confirm</string>
+	<string name="confirmHelp">This will clear your scan history. Barcodes you scanned will be forgotten.</string>
+	<string name="ok">OK</string>
+	<string name="cancel">Cancel</string>
+	<string name="result_failed">Scan failed</string>
+	<string name="result_failed_why">Message</string>
+	<string name="result_succeeded">Yay</string>
+	<string name="scan_help"><!-- Hit 'Back' to stop scanning. 'Clear' deletes all scanning history. 'Send' scanned info by email.--></string>
+	<string name="db_empty">Scan some books first</string>
+	<string name="stop_scan_help">Hit Back to stop scanning</string>
+	<string name="send_db">Email barcodes</string>
+	<string name="send_db_preamble">Hello there! Here are your recently scanned barcodes:</string>
+	<string name="send_db_postamble">Sent by</string>	
+	<string name="send_db_subject">Barcode scans</string>	
+	<string name="send_this_list">Send this list</string>	
+</resources>
